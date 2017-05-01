@@ -1,0 +1,20 @@
+{
+  "name": "temp-monitor",
+  "version": "1.0.0",
+  "description": "Takes temperature data/alert settings from Elemental Machines API and alerts users when the current temperature is out or returns within expected ranges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Philip I Morris",
+  "license": "ISC",
+  "dependencies": {
+    "emailjs": "^1.0.8",
+    "moment": "^2.18.1",
+    "mongodb": "^2.2.26",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.3.0"
+  }
+}
