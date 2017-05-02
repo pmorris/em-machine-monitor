@@ -12,7 +12,8 @@
     "emailjs": "^1.0.8",
     "moment": "^2.18.1",
     "mongodb": "^2.2.26",
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "twilio": "^2.11.1"
   },
   "devDependencies": {
     "mocha": "^3.3.0"
